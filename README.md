@@ -1,8 +1,8 @@
 ## 🎩 Marhaba m'lady 
 
-A 13 self-taught programmer that loves webscraping and messing around with requests.
+Faço qualquer coisa so chama 
 
-## What I like to use
+## O que eu uso
 
 > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png" alt="vue" width="16px" height="16px">  [Vue.js](https://vuejs.org)
 
