@@ -1,4 +1,4 @@
-## 🎩 Marhaba m'lady 
+## 🎩 Marhaba
 
 A 14 self-taught programmer that loves webscraping and messing around with requests.
 
