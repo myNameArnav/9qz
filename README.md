@@ -1,5 +1,5 @@
 <p align="center">
-    <img align="center" width="200px" src="https://github.com/notsapinho/notsapinho/blob/master/dragoonz.png">
+    <img align="center" width="400px" src="https://github.com/notsapinho/notsapinho/blob/master/dragoonz.png">
     <p align="center">Sleeping at <strong>home</strong>.
         <br>I do <strong>useless</strong> and sometimes <strong>useful</strong> things.</p>
     <p align="center">
