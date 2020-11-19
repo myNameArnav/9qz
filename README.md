@@ -1,6 +1,6 @@
 <p align="center">
     <img align="center" width="400px" src="https://github.com/notsapinho/notsapinho/blob/master/dragooon.png">
-    <p align="center">Sleeping at <strong>home</strong>.
+    <p align="center">Sapinho <strong>codifications</strong>.
         <br>I do <strong>useless</strong> and sometimes <strong>useful</strong> things.</p>
     <p align="center">
         <img align="center" alt="My discord" src="https://img.shields.io/badge/Discord-notsapinho%232975-8768e8"
